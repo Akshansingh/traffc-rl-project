@@ -241,9 +241,8 @@ Explainable Reinforcement Learning for Emergency-Aware Traffic Signal Optimisati
 
 Authors:
 
-* Puranjay Singh
-* Chirag Verma
-* Akshat Abhivardan
+* AKSHAN SINGH 
+
 
 Department of Computer Science and Engineering
 Bennett University, Greater Noida, India
